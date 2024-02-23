@@ -30,6 +30,6 @@ stated:
 Another critic and restaurateur who owns the lovely [cafe2](https://allegheny-college-cmpsc-105-spring-2024.github.io/lab05-resto-starter/), _name_, has
 stated:
 
->" Ístroba has the most terrible food!" 
+>" Ístroba has the most terrible food!"
 
 [See their review in person!](https://allegheny-college-cmpsc-105-spring-2024.github.io/lab05-resto-starter/explorations/review2)
