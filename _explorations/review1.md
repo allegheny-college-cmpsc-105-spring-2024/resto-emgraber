@@ -1,17 +1,17 @@
 ---
 layout: post
-# TODO: update the title inside the quotes to suit your restaurant review needs
-title: "rev 1"
+# update the title inside the quotes to suit your restaurant review needs
+title: "Nails by Pear's House"
 permalink: explorations/review1
 nav: true
 ---
 
-Rabbits like lettuce.
+[Nails by Pear's House](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-MinhChi88/)
+is the top place that I would recommend for nail treatment. Not only do they carry every
+shade of pink gel, but also, they care about providing the best service which results in
+nails that are healthy and beautiful. The prices are totally fair, as listed out on the
+[services page](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-MinhChi88/menu).
 
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!
+Recently I took my sister there, and she completely agreed that Pear's is the best!
+I was also able ask for custom designs. They stick to their stated mission,
+"We focus on growing your nails naturally, healthily, beautifully. We want to bring your nails a healthy, clean look. We are a all-gel nail studio. We do not use acrylics to perform any services. We use different kinds of gel to bring you the best experience at our studio. Quality is very important to us because your nail health is important to us."

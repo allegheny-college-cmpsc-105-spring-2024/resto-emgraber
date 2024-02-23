@@ -5,17 +5,20 @@ permalink: /menu
 nav: true
 ---
 
-## menu
+## Drinks
 
-this is the menu
+### Noisette Allongée
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+- €3,5
 
-### menu item 1
+![drink](assets/images/coffee-drink.jpeg){:width="200"}
 
-#### lettuce
+This perfected blend between caffeine and cream will light up your day at any hour.
 
-- price: $100
+### Express Déca
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+- €3,5
+
+![drink](assets/images/coffee-express.jpeg){:width="200"}
+
+Decaf, for the evening.
